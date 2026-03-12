@@ -1,0 +1,1 @@
+Este projeto é um Coletor e Extrator de Dados de Notas Fiscais de Serviço (NFS-e) construído em Python. Ele utiliza uma arquitetura híbrida: processa nativamente dezenas de layouts de prefeituras via Regex/OCR e possui uma integração de resgate com a API do Google Gemini (IA) para ler notas corrompidas, gerando ao final um relatório financeiro completo no Excel."
